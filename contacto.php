@@ -46,7 +46,7 @@
           <h1 class="dark-color">Contacto</h1>
 
               <li><a href="#map"><img src="images/home-solid.svg" style="width:50px" align="middle" alt="Home"></li>
-              <li>Beruti 4437 <br>Caba-Argentina</li></a>
+              <li align="center">Av. Alvarez Thomas 550 <br>Caba-Argentina</li></a>
         </div>
         <div class="row" style="place-content: center;" >
           <ul class="list-unstyled mb-0" style="text-align-last: center;padding-bottom: 10px;padding-top: 10px;">
@@ -61,8 +61,7 @@
     </div>
   
 
-  <iframe id= "map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.0167675598136!2d-58.42494168488623!3d-34.57844228046606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb59ca149a447%3A0x5db6572e04d5c309!2sBeruti%204437%2C%20C1425BDA%20CABA!5e0!3m2!1ses!2sar!4v1627067114324!5m2!1ses!2sar" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
+  <iframe id= "map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.923927205232!2d-58.452781684771!3d-34.58079138046539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb5e891481b33%3A0xbfc9d6ea628a825c!2sAv.%20%C3%81lvarez%20Thomas%20550%2C%20C1427CCS%20CABA!5e0!3m2!1ses!2sar!4v1631053977025!5m2!1ses!2sar" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->

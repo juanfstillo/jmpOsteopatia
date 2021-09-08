@@ -44,7 +44,7 @@
  
     <div class="card">
 <!-- set a width on the image otherwise it will expand to full width       -->
-      <img class="card-img-top img-fluid" src="images/craneal.jpeg" alt="Card image cap" width="400">
+      <img class="card-img-top " src="images/craneal.jpeg" alt="Card image cap" width="400">
       <div class="card-body">
       <h4 class="card-title">Osteopatía</h4>
       <p class="card-text">La osteopatía cumple un rol fundamental en la etapa de recuperación ya que permite alcanzar el más completo potencial físico e intenta restablecer la capacidad funcional restaurando la salud y mejorando la postura.</p>
@@ -55,7 +55,7 @@
   
       <div class="card">
 <!-- set a width on the image otherwise it will expand to full width       -->
-      <img class="card-img-top img-fluid" src="images/kinesiologia.png" alt="Card image cap" width="400">
+      <img class="card-img-top img-fluid" src="images/kinesiologia.png" alt="Card image cap" width="300">
       <div class="card-body">
         <h4 class="card-title">Kinesiología</h4>
         <p class="card-text">Para lograr una recuperación efectiva abordaremos las causas del problema en función de las necesidades clínicas de cada paciente con el objetivo de alcanzar su completa recuperación en el regreso al deporte.</p>

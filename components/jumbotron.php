@@ -6,7 +6,7 @@
 
   <div class="container text-white">
 
-    <h1 class="display-4 text-uppercase">osteopatía / rehabilitación deportiva</h1>
+    <h1 class="display-5 text-uppercase">osteopatía / REHABILITACIÓN DEPORTIVA </h1>
     <p class="lead">Prevención y Recuperación inmediata</p>
     <hr class="my-4">
     <!-- <p>Escribinos.</p> -->

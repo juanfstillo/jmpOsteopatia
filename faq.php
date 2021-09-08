@@ -77,13 +77,13 @@
 		  <div class="panel-heading p-3 mb-3" role="tab" id="heading3">
 			<h3 class="panel-title">
 			  <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="true" aria-controls="collapse3">
-        ¿Debo llevar estudios médicos previos?
+        ¿Debo llevar estudios médicos?
 			  </a>
 			</h3>
 		  </div>
 		  <div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
 			<div class="panel-body px-3 mb-4">
-			  <p>Sí, presentar estudios previos ayuda a la detección temprana de las patologías y permiten un abordaje más rápido del problema</p>
+			  <p>Sí, presentar estudios previos ayuda a la detección temprana de las patologías y permiten un abordaje más rápido del problema.</p>
 			</div>
 		  </div>
 		</div>
@@ -104,16 +104,16 @@
 		</div>
 		
 		<div class="panel panel-default">
-		  <div class="panel-heading p-3 mb-3" role="tab" id="heading3">
+		  <div class="panel-heading p-3 mb-3" role="tab" id="heading4">
 			<h3 class="panel-title">
-			  <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="true" aria-controls="collapse3">
+			  <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="true" aria-controls="collapse4">
         ¿Cómo ir vestido a la consulta?
 			  </a>
 			</h3>
 		  </div>
-		  <div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
+		  <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
 			<div class="panel-body px-3 mb-4">
-			  <p>Es importante asistir con ropa cómoda a los fines de agilizar la práctica</p>
+			  <p>Es importante asistir con ropa cómoda a los fines de agilizar la práctica.</p>
 			</div>
 		  </div>
 		</div>
